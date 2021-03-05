@@ -1,6 +1,6 @@
 <div align="center">
-  <img width="100%" src="https://ibb.co/DKvB6c6">
-  <h1 style="margin-bottom:20px; margin-top:20px;">TODO-list with React-Redux</h1>
+  <img width="100%" src="https://cdn1.savepice.ru/uploads/2021/3/5/3dd30d179affcc794e4ec9ae7595f354-full.png">
+  <h2 style="margin-bottom:20px; margin-top:20px;">TODO-list</h2>
 </div>
 
 
