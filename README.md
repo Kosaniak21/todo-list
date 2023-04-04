@@ -8,9 +8,9 @@ Simple TODO-list with async react-redux
 
 ## Build Setup:
 
-``` bash
+```bash
 # Download repository:
-git clone https://github.com/Kosanyak19/todo-list.git
+git clone https://github.com/Kosaniak21/todo-list.git
 
 # Go to the app:
 cd todo-list
@@ -27,16 +27,15 @@ npm run build
 
 ## Tech Staks:
 
-*  HTML
-*  CSS3
-*  Flexbox
-*  Sass (SCSS)
-*  BEM methodology
-*  Webpack
-*  React 
-*  Redux
-
+- HTML
+- CSS3
+- Flexbox
+- Sass (SCSS)
+- BEM methodology
+- Webpack
+- React
+- Redux
 
 <div><h1></h1></div>
 
-Copyright (c) 2021-present, [Kosanyak Viktor] (https://github.com/Kosanyak19)
+Copyright (c) 2021-present, [Kosaniak Viktor] (https://github.com/Kosaniak21)
