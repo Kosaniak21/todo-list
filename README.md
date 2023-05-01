@@ -1,7 +1,3 @@
-<div align="center">
-  <img width="100%" src="https://cdn1.savepice.ru/uploads/2021/3/5/3dd30d179affcc794e4ec9ae7595f354-full.png">
-</div>
-
 ## Specification:
 
 Simple TODO-list with async react-redux
