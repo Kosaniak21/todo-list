@@ -25,7 +25,6 @@ npm run build
 
 - HTML
 - CSS3
-- Flexbox
 - Sass (SCSS)
 - BEM methodology
 - Webpack
