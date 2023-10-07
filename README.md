@@ -2,6 +2,8 @@
 
 Simple TODO-list with async react-redux
 
+[Live Demo](https://todo-list-async-redux.netlify.app)
+
 ## Build Setup:
 
 ```bash
